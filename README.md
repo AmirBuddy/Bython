@@ -6,14 +6,14 @@ This was a fun project to learn C++ basics
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Features](#features)
+- [How to use](#how-to-use)
 - [Installation](#installation)
 
 ## Project Overview
 
 You can write and run simple scripts with this language in the terminal which is very very limited
 
-## Features
+## How to use
 
 Bython commands list and their form of usage:
 
