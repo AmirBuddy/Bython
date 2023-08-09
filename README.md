@@ -15,10 +15,12 @@ You can write and run simple scripts with this language in the terminal which is
 
 ## Installation
 
+Just fork and clone the project then compile the bython.cpp file to an executable file and then just run it.
 ```shell
 $ git clone https://github.com/AmirBuddy/Bython.git
 $ cd Bython
 $ g++ bython.cpp -o bython
+$ ./bython
 ```
 
 ## How to use
