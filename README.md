@@ -21,7 +21,7 @@ Bython commands list and their form of usage:
 |------------------|----------------------------------|--------------------------------------------------------|
 |    Assignment    |           A = expression	        |          Save the the expression in variable A         |
 |       Input      |             voroodi()            |                      Take an input                     |
-|       Print      |           khoorooji(List)        |              Prints out the values in list             |
+|       Print      |           khorooji(List)         |              Prints out the values in list             |
 |   If Statement   | agar condition : A = expression	| If condition was true, set the value of expression in A|
 
 ## Installation
