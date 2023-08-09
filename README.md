@@ -16,8 +16,9 @@ You can write and run simple scripts with this language in the terminal which is
 ## Installation
 
 ```shell
-$ git clone https://github.com/yourusername/your-project.git
-$ cd your-project
+$ git clone https://github.com/AmirBuddy/Bython.git
+$ cd Bython
+$
 ```
 
 ## How to use
