@@ -6,12 +6,19 @@ This was a fun project to learn C++ basics
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [How to use](#how-to-use)
 - [Installation](#installation)
+- [How to use](#how-to-use)
 
 ## Project Overview
 
-You can write and run simple scripts with this language in the terminal which is very very limited
+You can write and run simple scripts with this language in the terminal which is very very limited.
+
+## Installation
+
+```shell
+$ git clone https://github.com/yourusername/your-project.git
+$ cd your-project
+```
 
 ## How to use
 
@@ -113,14 +120,4 @@ Output:
 ```
 3
 1
-```
-
-## Installation
-
-Provide instructions on how to install your project. Include any prerequisites, dependencies, or setup steps. You can use code blocks to show terminal commands:
-
-```shell
-$ git clone https://github.com/yourusername/your-project.git
-$ cd your-project
-$ npm install  # or any other package manager
 ```
