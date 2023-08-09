@@ -24,8 +24,8 @@ Bython commands list and their form of usage:
 |       Print      |           khorooji(List)         |              Prints out the values in list             |
 |   If Statement   | agar condition : A = expression	| If condition was true, set the value of expression in A|
 
-- expression:
-  -- Every constant number is an expression. For example, the numbers 2 and 5 themselves are expressions.
+### expression:
+  - Every constant number is an expression. For example, the numbers 2 and 5 themselves are expressions.
 
   
 ## Installation
