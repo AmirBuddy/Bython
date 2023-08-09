@@ -1,6 +1,6 @@
 # Bython lang
 
-A very simple scripting language named "Bython" written in C++
+A very simple scripting language named "Bython" written in C++.
 This was a fun project to learn C++ basics
 
 ## Table of Contents
