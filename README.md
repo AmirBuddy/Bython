@@ -18,7 +18,7 @@ You can write and run simple scripts with this language in the terminal which is
 ```shell
 $ git clone https://github.com/AmirBuddy/Bython.git
 $ cd Bython
-$
+$ gcc -o bython.cpp bython
 ```
 
 ## How to use
