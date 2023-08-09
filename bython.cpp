@@ -157,7 +157,7 @@ void voroodi (string line, vector <pair<string, int>> &var, string input_line) {
     }
 }
 
-void khorooji (string line, vector <pair<string, int>> &var) {
+void khoorooji (string line, vector <pair<string, int>> &var) {
     string str = "";
     string elem = "";
     int helper = 0;
@@ -338,8 +338,8 @@ int main () {
         {
             calc_assignment(line, var);
         }
-        else if (line.find("khorooji") != string::npos) {
-            khorooji(line, var);
+        else if (line.find("khoorooji") != string::npos) {
+            khoorooji(line, var);
         }
         else if (line.find("agar ") != string::npos) {
             agar(line, var);
