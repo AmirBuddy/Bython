@@ -30,7 +30,7 @@ Provide instructions on how to install your project. Include any prerequisites, 
 $ git clone https://github.com/yourusername/your-project.git
 $ cd your-project
 $ npm install  # or any other package manager
-
+```
 | **Header 1** | **Header 2** | **Header 3** |
 |--------------|--------------|--------------|
 | Row 1, Col 1| Row 1, Col 2| Row 1, Col 3|
