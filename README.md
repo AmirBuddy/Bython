@@ -17,10 +17,12 @@ You can write and run simple scripts with this language in the terminal which is
 
 Bython commands list and their form of usage:
 
-
-- Assignment: A = expression
-- Feature 2: Description
-- ...
+| **Command name** |         **Form of usage**        |                     **Description**                    |
+|------------------|----------------------------------|--------------------------------------------------------|
+|    Assignment    |           A = expression	        |          Save the the expression in variable A         |
+|       Input      |             voroodi()            |                      Take an input                     |
+|       Print      |           khoorooji(List)        |              Prints out the values in list             |
+|   If Statement   | agar condition : A = expression	| If condition was true, set the value of expression in A|
 
 ## Installation
 
@@ -31,10 +33,3 @@ $ git clone https://github.com/yourusername/your-project.git
 $ cd your-project
 $ npm install  # or any other package manager
 ```
-| **Header 1** | **Header 2** | **Header 3** |
-|--------------|--------------|--------------|
-| Row 1, Col 1| Row 1, Col 2| Row 1, Col 3|
-| Row 2, Col 1| Row 2, Col 2| Row 2, Col 3|
-| Row 3, Col 1| Row 3, Col 2| Row 3, Col 3|
-| Row 4, Col 1| Row 4, Col 2| Row 4, Col 3|
-| Row 5, Col 1| Row 5, Col 2| Row 5, Col 3|
