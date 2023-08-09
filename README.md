@@ -72,8 +72,8 @@ Input:
 A = 3
 B = voroodi()
 C = A + B
-khoorooji(10)
-khoorooji(C, 2)
+khorooji(10)
+khorooji(C, 2)
 -----
 3
 ```
@@ -90,7 +90,7 @@ Input:
 ```
 A = voroodi()
 agar A == 2 : A = A + 2
-khoorooji(A)
+khorooji(A)
 -----
 2
 ```
@@ -106,7 +106,7 @@ Input:
 ```
 agar 2 == 2 : A = 3
 agar 3 == 4 : B = 1
-khoorooji(A)
+khorooji(A)
 -----
 ```
 Output:
