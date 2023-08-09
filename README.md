@@ -18,7 +18,7 @@ You can write and run simple scripts with this language in the terminal which is
 ```shell
 $ git clone https://github.com/AmirBuddy/Bython.git
 $ cd Bython
-$ gcc -o bython.cpp bython
+$ g++ bython.cpp -o bython
 ```
 
 ## How to use
@@ -29,8 +29,8 @@ Bython commands list and their form of usage:
 |------------------|----------------------------------|--------------------------------------------------------|
 |    Assignment    |           A = expression	        |      Save the value of expression in variable A        |
 |       Input      |             voroodi()            |                      Take an input                     |
-|       Print      |           khorooji(List)         |              Prints out the values in list             |
-|   If Statement   | agar condition : A = expression	| If condition was true, save the value of expression in A|
+|       Print      |           khoorooji(List)        |              Prints out the values in list             |
+|   If Statement   | agar condition : A = expression  |If condition was true, save the value of expression in A|
 
 ### Definition of Expression:
 
@@ -80,8 +80,8 @@ Input:
 A = 3
 B = voroodi()
 C = A + B
-khorooji(10)
-khorooji(C, 2)
+khoorooji(10)
+khoorooji(C, 2)
 -----
 3
 ```
@@ -98,7 +98,7 @@ Input:
 ```
 A = voroodi()
 agar A == 2 : A = A + 2
-khorooji(A)
+khoorooji(A)
 -----
 2
 ```
@@ -114,7 +114,7 @@ Input:
 ```
 agar 2 == 2 : A = 3
 agar 3 == 4 : B = 1
-khorooji(A)
+khoorooji(A)
 -----
 ```
 Output:
