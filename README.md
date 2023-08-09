@@ -1,21 +1,17 @@
 # Bython lang
 
 A very simple scripting language named "Bython" written in C++
-This was a simple project to learn C++ basics
+This was a fun project to learn C++ basics
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
-Provide a high-level overview of your project. What problem does it solve? Why is it useful? Include any relevant background information.
+You can write and run simple scripts with this language in the terminal which is very very limited
 
 ## Features
 
